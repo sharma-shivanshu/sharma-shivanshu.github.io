@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:47:59.812578+00:00",
+  "generated_at": "2026-09-12T23:31:51.129741+00:00",
   "stories": [
     {
       "id": "16b8406f808894248b94e1bbee5e9c3f",
@@ -14341,6 +14341,58 @@
       "lang": "en"
     },
     {
+      "id": "9c03edb4f6e63cec6ced1de9c5b12b99",
+      "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
+      "link": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
+      "summary": "Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused",
+      "date": "2026-09-13",
+      "timestamp": "Sun, 13 Sep 2026 04:05:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b1e95b3add4e450d6c027c5d7889dcc",
+      "title": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court",
+      "link": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
+      "summary": "The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party’s candidate violated the requirement of maintaining political neutrality",
+      "date": "2026-09-13",
+      "timestamp": "Sun, 13 Sep 2026 03:52:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bb42158d7885bc70379388b6d7c02bd8",
+      "title": "Power cuts paralyse Punjab rice mills; Opon. slams AAP over ‘Roshan Punjab’ promise",
+      "link": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece",
+      "summary": "In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added",
+      "date": "2026-09-13",
+      "timestamp": "Sun, 13 Sep 2026 03:49:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1b38de5badf8f5d724b8586131e1108d",
+      "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece",
+      "summary": "The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; “civilian blood has no nationality, and international justice cannot have double standards,” she added",
+      "date": "2026-09-13",
+      "timestamp": "Sun, 13 Sep 2026 03:35:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c201727c38ff347ba4bb5f0c5d31bb35",
       "title": "Congress claims NSUI's victory in Garhwal university student union polls",
       "link": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece",
@@ -18592,6 +18644,19 @@
       "lang": "en"
     },
     {
+      "id": "7c81a0cef6c4dac9a288c7c7d325107d",
+      "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
+      "summary": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 23:25:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "00f046ce05a107944ddd8b6fbadde1ea",
       "title": "Xi, Modi welcome ‘steady progress’ in India-China ties",
       "link": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece",
@@ -18679,6 +18744,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b4d172549a87e8ed63a066da3a315ff",
+      "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+      "summary": "The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 7-5, 6-2 win in New York as the new world No 1.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 23:14:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -18839,6 +18917,19 @@
       "lang": "en"
     },
     {
+      "id": "d28c0a50ff64d1923e3f371e3c468a4c",
+      "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss",
+      "summary": "Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 22:51:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5b0c20870425ab5337465e3fe6cafd6e",
       "title": "BRICS leaders call for stronger international cooperation, wider access to AI resources",
       "link": "https://www.thehindu.com/news/national/brics-leaders-call-for-stronger-international-cooperation-wider-access-to-ai-resources/article71460974.ece",
@@ -18874,6 +18965,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e4052974d3c9c12625166bc9cd9570a9",
+      "title": "Tens of thousands march across Germany to protest far-right party AfD",
+      "link": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+      "summary": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 22:37:03 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -18978,6 +19082,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "353239633dd030091f5ed5c49ea2a949",
+      "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
+      "summary": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 22:10:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -19095,6 +19212,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d67d3e1557ebde33949303dc0deabd06",
+      "title": "First naval battle between drones takes place in the Black Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+      "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 21:38:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -20595,9 +20725,9 @@
     },
     {
       "id": "0a9354a10ed59d4974e8f97a48f9e939",
-      "title": "US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina",
+      "title": "US Open women’s singles final live: Rybakina defeats Sabalenka",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
-      "summary": "Follow our live build-up, predictions, head-to-head stats, scores, photos and commentary from the final in New York.",
+      "summary": "All our updates as Elena Rybakina defeats Aryna Sabalenka to win the US Open women's singles final in New York.",
       "date": "2026-09-12",
       "timestamp": "Sat, 12 Sep 2026 17:07:54 +0000",
       "section": "International",
@@ -35449,6 +35579,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ce04a1f45d8d6e5611cd84fe34271b5e",
+      "title": "AI development needs to slow down: Dario, Altman & Musk",
+      "link": "https://timesofindia.indiatimes.com/world/us/ai-development-needs-to-slow-down-dario-altman-musk/articleshow/134164439.cms",
+      "summary": "",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-13T04:39:28+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "148e4ea03ba2e9336b49c3755f63f6ed",
+      "title": "Rajnath: Modi blunted oppn's 'false narrative' with governance",
+      "link": "https://timesofindia.indiatimes.com/india/rajnath-modi-blunted-oppns-false-narrative-with-governance/articleshow/134163020.cms",
+      "summary": "",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-13T04:03:05+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "150612f36b4b010f443a9e6457e51dfd",
+      "title": "India to get another major DRDO missile testing range in Bengal",
+      "link": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms",
+      "summary": "India is embarking on a pivotal project with the establishment of a new weapon and missile testing range in Junput, West Bengal. This state-of-the-art facility will complement the existing range in Chandipur, Odisha, marking the DRDO's third significant site. The initiative promises to not only bolster national defense capabilities but also promote substantial growth in West Bengal's infrastructure and economy.",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-13T03:46:20+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9e36fb3ad4af6c59cbec2cb67938cb40",
+      "title": "Global nutrition experts back FSSAI warning labels, seek stricter rules",
+      "link": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms",
+      "summary": "",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-13T03:40:44+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b9f17b0affe0bb04ed60eb07038d30b1",
+      "title": "FSSAI orders recall of two food products",
+      "link": "https://timesofindia.indiatimes.com/india/fssai-orders-recall-of-two-food-products/articleshow/134160290.cms",
+      "summary": "",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-13T03:35:40+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
