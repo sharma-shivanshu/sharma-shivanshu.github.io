@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:41:17.436632+00:00",
+  "generated_at": "2026-09-17T23:12:44.485567+00:00",
   "stories": [
     {
       "id": "e8d3add3dad5d269b445577a58b53d80",
@@ -8491,6 +8491,19 @@
       "lang": "en"
     },
     {
+      "id": "dd29207175a01987d72f510a95a4b802",
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 22:19:58 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4e60dd9b98afd4be319f3830621314ec",
       "title": "Supreme Court seeks Manipur Chief Secretary report on 25 unnatural deaths in relief camps",
       "link": "https://www.thehindu.com/news/national/manipur/supreme-court-expresses-shock-over-deaths-in-relief-camps-in-manipur-asks-chief-secretary-to-respond/article71475957.ece",
@@ -8552,6 +8565,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c2143121c988b4e43fabbb2d6bc1906f",
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 22:12:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -8660,6 +8686,32 @@
       "lang": "en"
     },
     {
+      "id": "4526db33a1bd1a0fbdb482086aaf5278",
+      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:42:31 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7d87b28338f409caefd1a5731e0e84af",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:41:19 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "04868877b5824af49ad48f93c815f965",
       "title": "Revenue officials begin verification of lands at KCR’s Erravalli farmhouse",
       "link": "https://www.thehindu.com/news/national/telangana/revenue-officials-begin-verification-of-lands-at-kcrs-erravalli-farmhouse/article71477695.ece",
@@ -8669,6 +8721,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8c3b0f81362c6b35192bc48f06421a2",
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:38:17 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -8725,6 +8790,19 @@
       "lang": "en"
     },
     {
+      "id": "63657c88a3912ee8d4562df3e44afc12",
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:27:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2a31cf0682a79386da12c43fb94af8fa",
       "title": "NCST member visits NTPC Ramagundam",
       "link": "https://www.thehindu.com/news/national/telangana/ncst-member-visits-ntpc-ramagundam/article71477418.ece",
@@ -8734,6 +8812,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9d7024760544c1cc221006202cd20b7",
+      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:20:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -8894,6 +8985,19 @@
       "lang": "en"
     },
     {
+      "id": "51233d4b6f1756d7aa4a14efddb5fd58",
+      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+      "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:08:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6b3c74e92c8774f4feaabff7325c07e4",
       "title": "Blowing the trumpet for ₹12 crore pending bills: Telangana artistes demand unpaid wages for performances at government events",
       "link": "https://www.thehindu.com/news/national/telangana/blowing-the-trumpet-for-pending-bills-artistes-demand-unpaid-wages-for-performances-at-government-events/article71477260.ece",
@@ -8955,6 +9059,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d41145acf9306936eb763d85ad0c128b",
+      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "summary": "Move ends the Security Council’s watchdog panel on Iran sanctions.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 21:01:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -9076,6 +9193,45 @@
       "lang": "en"
     },
     {
+      "id": "756f7be0ef2358c710409ead108c5500",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 20:47:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f4ddcaaace16856dc9b03be044c2e5df",
+      "title": "Why does Brazil get to speak first at UNGA?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
+      "summary": "Why does Brazil get to speak first at UNGA?",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 20:46:21 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ca83ab249329d00fb4d0e0c29bec3c1",
+      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+      "summary": "Canada's prime minister outlines plans for stronger ties with the EU.",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 20:37:06 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b475cc1f6d5c8dee2041132b232e94ea",
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
@@ -9085,6 +9241,19 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4764e14b46c9262c5923f0af272e4d99",
+      "title": "Why have China’s oil prices reached a record high?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "summary": "Why have China's oil prices reached a record high?",
+      "date": "2026-09-17",
+      "timestamp": "Thu, 17 Sep 2026 20:30:39 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -9825,19 +9994,6 @@
       "timestamp": "Thu, 17 Sep 2026 17:31:05 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "2cad9d0d68d984cc36f8ba92cba16fed",
-      "title": "Satya Niketan building collapse: Kiran Bedi seeks intervention in case, Centre opposes plea",
-      "link": "https://www.thehindu.com/news/cities/Delhi/satya-niketan-building-collapse-kiran-bedi-seeks-intervention-in-case-centre-opposes-plea/article71476239.ece",
-      "summary": "Additional Solicitor General Chetan Sharma, appearing for the Centre, Delhi government and the Municipal Corporation of Delhi (MCD), however, opposed Ms. Bedi's application and sought time to file objections",
-      "date": "2026-09-17",
-      "timestamp": "Thu, 17 Sep 2026 17:30:56 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -28355,6 +28511,123 @@
       "lang": "en"
     },
     {
+      "id": "c4e6c6560058f88c22cb3e5263e1683f",
+      "title": "Togo-flagged tanker stuck in Strait of Hormuz: Iran Guards",
+      "link": "https://www.thehindu.com/news/international/togo-flagged-tanker-stuck-in-strait-of-hormuz-iran-guards/article71478387.ece",
+      "summary": "The tanker came to ‌a halt ​after catching ⁠fire, the Revolutionary ⁠Guards Navy ‌added",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 04:32:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3ce85035d9cac5cfdadbea1cfd3e849f",
+      "title": "West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata",
+      "link": "https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece",
+      "summary": "The State government also observed the PM‘s Birthday as ‘Annapurna Divas’ and launched the PM Vishwakarma Scheme; This is the first time West Bengal has joined th scheme launched by the Union government",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 04:17:26 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "56f98faccfd519c5f44c0e5e5a251bc9",
+      "title": "No culture of cut-money in Bengal anymore: PM Modi",
+      "link": "https://www.thehindu.com/news/cities/kolkata/no-culture-of-cut-money-in-bengal-anymore-pm-modi/article71477468.ece",
+      "summary": "Prime Minister Narendra Modi, on his birthday, said that no eligible women will be deprived of the benefits of Annapurna Yojana in West Bengal",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 04:07:25 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "868f8e47f46b53835fe5eeedbc0554d1",
+      "title": "Prince Harry makes first public appearances 'back on British soil'",
+      "link": "https://www.thehindu.com/news/international/prince-harry-makes-first-public-appearances-back-on-british-soil/article71478374.ece",
+      "summary": "His appearances came on a busy day for Britain’s royals, with King Charles hosting a conference for AI leaders amid criticism in a forthcoming book ‌by the brother of his late ​first wife, Diana",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 03:58:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b5a8b1c34641e975435082e5ba4b5e09",
+      "title": "FM Nirmala Sitharaman meets Nepalese counterpart Wagle, discusses flood recovery",
+      "link": "https://www.thehindu.com/news/national/fm-nirmala-sitharaman-meets-nepalese-counterpart-wagle-discusses-flood-recovery/article71478365.ece",
+      "summary": "The duo also discussed measures to strengthen bilateral economic ties and initiatives to enhance connectivity for deepening trade, investments and people-to-people exchanges",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 03:31:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "65d1de5f29aabd21f04b3e5ba88000f3",
+      "title": "U.S. approves sale of 48 F-35 jets to Saudi Arabia",
+      "link": "https://www.thehindu.com/news/international/us-approves-sale-of-48-f-35-jets-to-saudi-arabia/article71478233.ece",
+      "summary": "The State Department has notified Congress about the proposed sale, which would require the approval of U.S. lawmakers",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 03:15:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7010d39b5822a61181a38b69d776bfb6",
+      "title": "Nepal flash flood death toll surges to 1,410; over 6,100 still missing",
+      "link": "https://www.thehindu.com/news/international/nepal-flash-flood-death-toll-missing-persons-count-search-ops/article71478234.ece",
+      "summary": "So far, 13,756 people have been rescued from the flood-affected areas",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 03:01:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2cad9d0d68d984cc36f8ba92cba16fed",
+      "title": "Satya Niketan building collapse case: Kiran Bedi moves Delhi HC seeking to intervene; Centre opposes",
+      "link": "https://www.thehindu.com/news/cities/Delhi/satya-niketan-building-collapse-kiran-bedi-seeks-intervention-in-case-centre-opposes-plea/article71476239.ece",
+      "summary": "“What reply will you file? She is a conscientious citizen of the country. She has administrative experience. The matter is in larger public interest,” a Bench of Chief Justice D.K. Upadhyaya and Justice Tejas Karia told the law officer",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 02:55:31 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8b91059aadbe94a22f444b4005ab0d4d",
+      "title": "Russia, China veto U.S. proposal for UN experts to keep monitoring sanctions on Iran",
+      "link": "https://www.thehindu.com/news/international/russia-china-veto-us-proposal-for-un-experts-to-keep-monitoring-sanctions-on-iran/article71478218.ece",
+      "summary": "Iran's UN mission thanked China and Russia for vetoing the resolution, saying on social media that the countries “prevented yet another cynical attempt by the United States and its allies to abuse the Security Council for their political purposes”",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 02:48:20 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cc0493c066f858108061f99a73d08f06",
       "title": "The crucial Uttar Pradesh test of the BJP’s hegemony",
       "link": "https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece",
@@ -28441,6 +28714,19 @@
       "timestamp": "Fri, 18 Sep 2026 01:01:52 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f484ebfa929acf92d2974ebc75d04f1",
+      "title": "Two U.S.-bound vessels apparently compromised by hackers: officials",
+      "link": "https://www.thehindu.com/news/international/two-us-bound-vessels-apparently-compromised-by-hackers-officials/article71478165.ece",
+      "summary": "The Coast Guard, which referred only to the August 21 boarding, said that “foreign cyber actors” ​were involved but did not ‌identify them; Maritime security group Dryad ​Global confirmed that one of the ships was the Liberian-flagged VL Prosperity",
+      "date": "2026-09-18",
+      "timestamp": "Fri, 18 Sep 2026 00:55:26 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -33464,6 +33750,110 @@
       "lang": "en"
     },
     {
+      "id": "7c9245c8a711034492ddf7f659194233",
+      "title": "SC slams builders for anonymous complaints against judges",
+      "link": "https://timesofindia.indiatimes.com/india/sc-slams-builders-for-anonymous-plaints-against-judges/articleshow/134323194.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T04:33:21+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "512887d9d0c47b9c1f92873b4e070104",
+      "title": "SC allows Dara Singh to challenge Odisha's remission plea rejection",
+      "link": "https://timesofindia.indiatimes.com/india/sc-allows-dara-singh-to-challenge-odishas-remission-plea-rejection/articleshow/134323184.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T04:28:39+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "09df00c191ace7066f0157cc1f28dbbf",
+      "title": "Congress MPs' support to MDR is on record: House panel chief",
+      "link": "https://timesofindia.indiatimes.com/india/congress-mps-support-to-mdr-is-on-record-house-panel-chief/articleshow/134323140.cms",
+      "summary": "Oppn Party Lawmakers Had Earlier Rubbished Claim Of Their Backing",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T04:10:21+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e39013aecd408bce72e102abc5e092e9",
+      "title": "US man seeks bail in terror case, court asks for NIA reply",
+      "link": "https://timesofindia.indiatimes.com/india/us-man-seeks-bail-in-terror-case-court-asks-for-nia-reply/articleshow/134323126.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T04:06:18+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f2db9087f60e6038c8a46eb9dd3661f6",
+      "title": "Buying medicines may have to be recorded on CCTV",
+      "link": "https://timesofindia.indiatimes.com/india/buying-meds-may-have-to-be-recorded-on-cctv/articleshow/134323093.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T04:01:45+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "020835441939bb003bc23c9ce1438366",
+      "title": "PM Modi pitches India as trusted chipmaking hub",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T03:48:51+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3b575db15c8e329d48fd7e76e517396b",
+      "title": "SC raps CBSE for refusing to exempt Class VI from 3-language policy this year",
+      "link": "https://timesofindia.indiatimes.com/india/sc-raps-cbse-for-refusing-to-exempt-class-vi-from-3-language-policy-this-yr/articleshow/134322000.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T03:42:51+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76ef98d89e59e7ea2836ff6853252c66",
+      "title": "Russia kicks off voting in first parliamentary election since Ukraine war began",
+      "link": "https://timesofindia.indiatimes.com/world/europe/russia-kicks-off-voting-in-first-parliamentary-election-since-ukraine-war-began/articleshow/134321045.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T02:25:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e4027f49747b25c0fef53ac8b381d7f1",
       "title": "A Virginia teen started with a dessert fundraiser 2 years ago; his youth team has now rescued...",
       "link": "https://timesofindia.indiatimes.com/world/us/a-virginia-teen-started-with-a-dessert-fundraiser-2-years-ago-his-youth-team-has-now-rescued-over-300000-pounds-of-food-and-raised-nearly-52000/articleshow/134320827.cms",
@@ -33503,6 +33893,19 @@
       "lang": "en"
     },
     {
+      "id": "5babd07b013e8097002cf5823742d8ff",
+      "title": "NIA court issues NBWs against 2 Pak-based LeT commanders",
+      "link": "https://timesofindia.indiatimes.com/india/nia-court-issues-nbws-against-2-pak-based-let-commanders/articleshow/134320998.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T01:53:13+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "df49c676bd844acc2484ad19c7ac27d4",
       "title": "Derek Jeter’s former Tampa mansion faces an uncertain future",
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2005-derek-jeter-assembled-three-tampa-waterfront-lots-for-7-7-million-and-built-a-22000-sq-ft-mansion-after-selling-it-for-22-5-million-in-2021-the-home-was-marked-for-demolition/articleshow/134316193.cms",
@@ -33512,6 +33915,19 @@
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a8ad9567077eeb6443c60495c7f1ce30",
+      "title": "Kashmir cracks walnut success code, turns to medium-sized, grafted trees",
+      "link": "https://timesofindia.indiatimes.com/india/kashmir-cracks-walnut-success-code-turns-to-medium-sized-grafted-trees/articleshow/134320993.cms",
+      "summary": "",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-18T01:49:49+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
