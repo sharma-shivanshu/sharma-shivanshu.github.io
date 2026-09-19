@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:52:40.082505+00:00",
+  "generated_at": "2026-09-19T23:44:48.447744+00:00",
   "stories": [
     {
       "id": "e8d3add3dad5d269b445577a58b53d80",
@@ -12521,6 +12521,19 @@
       "lang": "en"
     },
     {
+      "id": "f9ffbf1b9a1d1a1f6b89581bb897b774",
+      "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
+      "link": "https://www.thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
+      "summary": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted",
+      "date": "2026-09-20",
+      "timestamp": "Sun, 20 Sep 2026 03:49:40 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8a543895dbfeb79a90ead87be43e4562",
       "title": "What is the India-Pakistan conflict at sea about? | Explained",
       "link": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece",
@@ -12568,6 +12581,19 @@
       "timestamp": "Sun, 20 Sep 2026 01:34:27 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6ebe0c1e3e51f69db276f4adee7792aa",
+      "title": "Samrat Choudhary promises jobs to one crore women",
+      "link": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece",
+      "summary": "Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
+      "date": "2026-09-20",
+      "timestamp": "Sun, 20 Sep 2026 01:16:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -16720,6 +16746,19 @@
       "lang": "en"
     },
     {
+      "id": "db0a063c5ed3fccd95d33329787c63bb",
+      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+      "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+      "summary": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 23:18:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5af4a556d816fe8681278ff3ddf1a38e",
       "title": "Varthur-Sarjapur road joins ORR as one of Bengaluru’s most congested stretches",
       "link": "https://www.thehindu.com/news/cities/bangalore/varthur-sarjapur-road-joins-orr-as-one-of-bengalurus-most-congested-stretches/article71485359.ece",
@@ -16781,6 +16820,58 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "93841898ec75790b3fcd284b85468b01",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 23:01:57 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c8467adb57688842efc27a632d997bc4",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 23:01:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2098c5ef54455e702b79e24bf48ff03b",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 23:01:38 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "491edc8ad43714cb9c0f8b005ce3a6ff",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 23:00:27 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -16989,6 +17080,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5238fbd22e91f45c6184b1a52b47a82c",
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+      "date": "2026-09-19",
+      "timestamp": "Sat, 19 Sep 2026 22:03:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -19446,19 +19550,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "491edc8ad43714cb9c0f8b005ce3a6ff",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "date": "2026-09-19",
-      "timestamp": "Sat, 19 Sep 2026 11:36:55 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -32619,6 +32710,71 @@
       "lang": "en"
     },
     {
+      "id": "7430173428da2f8a9980a9bc95e261de",
+      "title": "Toll rises to 31 as 22-hour standoff ends at Pakistan police line HQ",
+      "link": "https://timesofindia.indiatimes.com/india/toll-rises-to-31-as-22-hour-standoff-ends-at-pakistan-police-line-hq/articleshow/134362334.cms",
+      "summary": "",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T04:45:11+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8c0857d5879be7940a0974ea59527762",
+      "title": "Morning-after pills may get 4 boxed warnings",
+      "link": "https://timesofindia.indiatimes.com/india/morning-after-pills-may-get-4-boxed-warnings/articleshow/134362327.cms",
+      "summary": "",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T04:37:09+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "edd46aa119e6dee8de93db0e57d30e60",
+      "title": "Aadhaar now mandatory for LPG refills",
+      "link": "https://timesofindia.indiatimes.com/india/aadhaar-now-mandatory-for-lpg-refills/articleshow/134361913.cms",
+      "summary": "",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T03:47:29+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a483d5aa6057c549ebf6fe84d3a9a9f6",
+      "title": "India to make 350 kmph bullet trains by 2030, match Japan's E10",
+      "link": "https://timesofindia.indiatimes.com/india/india-to-make-350-kmph-bullet-trains-by-2030-match-japans-e10/articleshow/134360448.cms",
+      "summary": "Cost Revised To 2L Cr, Gets Cabinet Nod",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T03:27:41+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0348d4719bc079b3770cec555de226cc",
+      "title": "As monsoon withdrawal begins, season may end with 10% deficit",
+      "link": "https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms",
+      "summary": "14 States Have Reported Rain Deficit Of More Than 20% So Far",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T03:20:59+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d90134d2b172e5cc3ffafa24e21f4171",
       "title": "Stanford scientists grow human brain tissue inside mice, filling more than 90% of missing cortex space",
       "link": "https://timesofindia.indiatimes.com/science/discovery/stanford-scientists-transplanted-human-brain-tissue-into-mice-missing-most-of-their-cortex-within-months-it-grew-to-occupy-more-than-90-of-the-space/articleshow/134353316.cms",
@@ -32755,6 +32911,19 @@
       "summary": "",
       "date": "2026-09-19",
       "timestamp": "2026-09-20T01:46:04+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bf8ccbb995ccb0cd2fd0cbad562bd322",
+      "title": "Iran gives US 3 conditions to restart talks, says ‘Trump’s threats will not achieve results’",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms",
+      "summary": "Iran has officially presented seven demands to Washington for resuming negotiations, emphasizing the need to conclude hostilities and unfreeze assets. Alongside this diplomatic approach, Iran is readying itself for potential US military actions, adapting its military strategy to prioritize naval capabilities. Efforts are underway to swiftly resolve the ongoing conflict.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-20T01:45:37+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
