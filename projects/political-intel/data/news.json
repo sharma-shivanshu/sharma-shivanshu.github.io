@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:56:05.200532+00:00",
+  "generated_at": "2026-10-24T22:08:07.462525+00:00",
   "stories": [
     {
       "id": "1f58f1b10599a9ca1c9972377d65fe87",
@@ -11741,6 +11741,58 @@
       "lang": "en"
     },
     {
+      "id": "5762178086d4fc9877c1c5b53be8dae3",
+      "title": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+      "summary": "Justices Anita Sumanth and Sunder Mohan hold that prison authorities cannot compel the convicts to avail the leave only once a year",
+      "date": "2026-10-25",
+      "timestamp": "Sun, 25 Oct 2026 02:36:25 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2d6f8027227812c4df20ff945b1087c",
+      "title": "Another alleged hooch tragedy claims over 10 in Madhya Pradesh district; administration denies",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/another-alleged-hooch-tragedy-claims-over-10-in-madhya-pradesh-district-administration-denies/article71620685.ece",
+      "summary": "Highlighting the mass deaths in various tragedies across Madhya Pradesh in the past year, Congress leader Jitu Patwari said the State had become the “biggest den of mass deaths”",
+      "date": "2026-10-25",
+      "timestamp": "Sun, 25 Oct 2026 02:23:06 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7bcac27ffd533ddce545027c6d3e1332",
+      "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live",
+      "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
+      "summary": "Bus driver killed, conductor injured as mudslide and uprooted trees hit Tamil Nadu State Transport Corporation bus in Nilgiris",
+      "date": "2026-10-25",
+      "timestamp": "Sun, 25 Oct 2026 02:10:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "215188534d4a714dac64285d24dbe117",
+      "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece",
+      "summary": "The recent developments come amid SP candidate from Agra Division, Teacher’s seat, Akash Agarwal, who has alleged extreme harassment of his supporters during the Uttar Pradesh Legislative Council elections on the seat",
+      "date": "2026-10-25",
+      "timestamp": "Sun, 25 Oct 2026 01:36:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1ee117c0b2d56bf5cd7fc87dfc8748fb",
       "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
@@ -11866,19 +11918,6 @@
       "timestamp": "Sun, 25 Oct 2026 00:43:56 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7bcac27ffd533ddce545027c6d3e1332",
-      "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live",
-      "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
-      "summary": "Bus driver killed, conductor injured as mudslide and uprooted trees hit Tamil Nadu State Transport Corporation bus in Nilgiris",
-      "date": "2026-10-25",
-      "timestamp": "Sun, 25 Oct 2026 00:38:44 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -19710,6 +19749,19 @@
       "lang": "en"
     },
     {
+      "id": "1ca01737a9b6a2917bd161ab70d8815b",
+      "title": "PROFILES: Starshield | The non-state sovereigns",
+      "link": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+      "summary": "Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 23:11:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "729863a3025ab950f2711d193acfbd91",
       "title": "Road Ministry seeks forensic audit of its portals after vehicle data leak",
       "link": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece",
@@ -19866,6 +19918,19 @@
       "lang": "en"
     },
     {
+      "id": "97200005027416a69c5264f660868094",
+      "title": "Gadi Eisenkot | Netanyahu’s challenger",
+      "link": "https://www.thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece",
+      "summary": "Yashar’s leader vows to end Netanyahu’s rule, put an end to endless wars and remove Hamas from power in Gaza, but opposes the creation of a Palestinian state",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 22:27:53 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "db7debb8a3909cbb037d541454b9a4cf",
       "title": "Suspension of ADGP Ajithkumar extended by 120 days",
       "link": "https://www.thehindu.com/news/national/kerala/suspension-of-adgp-ajithkumar-extended-by-120-days/article71621152.ece",
@@ -20009,6 +20074,19 @@
       "lang": "en"
     },
     {
+      "id": "093ebfb32e47ca9555415aa8a0417aa7",
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:39:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "914a6d720bce65ed6bbffebbaf4eb043",
       "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
       "link": "https://www.thehindu.com/news/international/israel-launches-major-west-bank-operation-after-soldiers-killed/article71619178.ece",
@@ -20048,6 +20126,19 @@
       "lang": "en"
     },
     {
+      "id": "beb33cfd7a97f5db725d4e2d0b5446da",
+      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "summary": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:36:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9655c367a05bff10e9714e6fc7319bad",
       "title": "R. Ashok seeks probe into alleged irregularities in waste management tenders",
       "link": "https://www.thehindu.com/news/cities/bangalore/r-ashok-seeks-probe-into-alleged-irregularities-in-waste-management-tenders/article71620618.ece",
@@ -20070,6 +20161,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f49c2b7215abcea5b75057c0de3572e9",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "summary": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:30:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -20256,6 +20360,32 @@
       "lang": "en"
     },
     {
+      "id": "fc68447f20eb1d857fa7252aaab5368f",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:09:27 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "957c69d6866282343906bdd68af8f222",
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "summary": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:08:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8e2ade3882c0716fe5c5b39c11db3ee7",
       "title": "When a future ‘Gaganyaatri’ retraced Ryland Grace’s path to Tau Ceti",
       "link": "https://www.thehindu.com/news/national/kerala/when-a-future-gaganyaatri-retraced-ryland-graces-path-to-tau-ceti/article71620746.ece",
@@ -20317,6 +20447,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "53418d21c2facd8cf1e2e5b31bddc995",
+      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "summary": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 21:02:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -20464,6 +20607,19 @@
       "lang": "en"
     },
     {
+      "id": "20eacf1ffe8370c7d47e8da137edf600",
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "summary": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 20:52:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3b0143c149719fe8b029b12666a08261",
       "title": "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29",
       "link": "https://www.thehindu.com/news/national/neha-bora-refuses-to-sign-peace-bond-questions-curbs-on-dissent/article71619599.ece",
@@ -20525,6 +20681,32 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2a2c14375727538e7e358d424d52cf97",
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+      "summary": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 20:39:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "192a0a82329dc0470835f64c46f71679",
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 20:37:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -20759,6 +20941,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25438557fc058d08ce41635f1b585748",
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "summary": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 20:03:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -21019,6 +21214,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a87d1c2f718a31fa8eb9363b0b046988",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "date": "2026-10-24",
+      "timestamp": "Sat, 24 Oct 2026 19:37:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -21648,7 +21856,7 @@
     },
     {
       "id": "50e3f74370e8840ac5a03aad40347511",
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
       "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "date": "2026-10-24",
@@ -21804,9 +22012,9 @@
     },
     {
       "id": "f27606337f5fa51083983ce633f9c472",
-      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+      "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
       "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-      "summary": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "summary": "The Italian government sent hundreds of soldiers to the country's fashion and financial hub ahead of anticipated unrest.",
       "date": "2026-10-24",
       "timestamp": "Sat, 24 Oct 2026 15:05:58 +0000",
       "section": "International",
@@ -41455,6 +41663,136 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "87e012a27906ebabfe8deb8d50185c94",
+      "title": "Solar storm delayed a train by 16 minutes in 1848, not 1841: How scientists solved a 155-year-old mystery",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/for-155-years-scientists-believed-a-solar-storm-delayed-a-train-in-exeter-england-in-1841-but-the-railway-did-not-exist-until-1846-researchers-now-say-the-storm-and-the-16-minute-delay-really-happened-in-1848/articleshow/135142131.cms",
+      "summary": "A fascinating correction has emerged from the archives concerning a train delay in Exeter. Initially reported incorrectly, researchers have clarified that the incident actually transpired on October 18, 1848. This revelation was achieved through the analysis of railway records and contemporary newspapers, alongside geomagnetic data, which pointed to a significant solar storm influencing the delay during that time.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T02:59:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d817a6dda5c2d2c16edf3b03f6abb1d5",
+      "title": "Dallas homeowners lost their $58,150 repair claim after a court ruled they filed too late",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2021-a-dallas-homes-flooring-was-damaged-after-a-neighbours-frozen-pipes-burst-the-insurer-paid-4261-but-homeowners-later-sought-58150-in-repairs-and-an-october-22-court-rejected-the-delayed-claim/articleshow/135155850.cms",
+      "summary": "A federal appeals court has ruled against Dallas residents who sought over $58,000 from State Farm for water damage from a 2021 freeze, determining that their lawsuit was not filed within the required timeframe of their insurance policy. State Farm had already compensated for initial damages but denied further claims, especially since the homeowners declined additional living costs during property repairs.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T02:54:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77c781262ef487fc9d9483581d644a98",
+      "title": "Rs 10 lakh cover for 45 paise: Counter rail ticket buyers get insurance option",
+      "link": "https://timesofindia.indiatimes.com/india/rs-10-lakh-cover-for-45-paise-counter-rail-ticket-buyers-get-insurance-option/articleshow/135177585.cms",
+      "summary": "The scheme has provision for payment of Rs 7.5 lakh for permanent partial disability and up to Rs 2 lakh for hospitalisation expenses arising from injuries, as well as Rs 10,000 towards transportation of mortal remains of deceased passengers. The Railway Board has directed all its zones to implement the facility.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T02:14:19+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b0a2eb19ae5ff5810804613b7332068",
+      "title": "CBI files FIR against IL&FS Energy, top execs in Rs 212cr Canara Bank loan fraud case",
+      "link": "https://timesofindia.indiatimes.com/india/cbi-files-fir-against-ilfs-energy-top-execs-in-rs-212cr-canara-bank-loan-fraud-case/articleshow/135177586.cms",
+      "summary": "CBI has named M/s IL&FS Energy Development Company Ltd, its MD and directors — Sunil Wadhwa, Anoop Seth, Hari Sankaran, Ramesh Chandra Bawa and Arun Kumar Saha — and unknown public servants and private individuals as accused. The case was registered on Oct 21 following a complaint by Canara Bank’s circle office in Bandra.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T02:07:54+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d15adb54159bcb811077d3e3211407db",
+      "title": "Alleged Mortgage Fraud Exposed: Lawsuits detail DSCR loan flips; Baltimore housing suffers",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-baltimore-house-bought-for-43000-in-2022-was-resold-for-310000-in-2023-three-years-later-it-was-listed-for-35000-after-foreclosure-as-lenders-alleged-a-wider-property-fraud-scheme-involving-hundreds-of-homes/articleshow/135139442.cms",
+      "summary": "In 2022, a property in Baltimore purchased for $43,000 astonishingly changed hands for $310,000 just a year later. This sharp spike in valuation has led to accusations of inflated property prices by investors, resulting in numerous foreclosures. Federal lawsuits allege a scheme involving over 150 properties generating millions in loans, prompting lender scrutiny and investigations into the housing market, revealing Baltimore's deep-seated issues with housing insecurity.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:56:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "767d0660ec447e0cd59a6dd9dd01dca5",
+      "title": "ED moves Supreme Court against HC order to quash case against portal, founder",
+      "link": "https://timesofindia.indiatimes.com/india/ed-moves-supreme-court-against-hc-order-to-quash-case-against-portal-founder/articleshow/135177481.cms",
+      "summary": "The directorate, which filed an appeal almost five months after the HC pronounced the order on May 29, also took the ground that the HC passed the order five months and 26 days after the judgement was reserved and it was in violation of SC’s guidelines that the verdict should be delivered within three months.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:53:13+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4532a220231f4c24c54669c7ca57b200",
+      "title": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress",
+      "link": "https://timesofindia.indiatimes.com/india/defer-nov-1-rally-will-hit-festive-business-traders-urge-rahul-bjp-raps-congress/articleshow/135177587.cms",
+      "summary": "CTI chairman Brijesh Goyal said Delhi records Rs 25,000 crore in business on Dhanteras across major sectors. CTI claimed that traders suffered losses of Rs 3,000 crore in Oct due to rallies and road closures in Connaught Place, India Gate and central Delhi. BJP claimed some Congress allies have disagreed with Rahul Gandhi’s decision to hold the rally on Nov 1.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:49:42+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "23e9b885c2e7defe43e9f3536b1919a2",
+      "title": "Interview | ‘AAP had 4.5 years to end drug menace, gangsterism in Punjab’: Sachin Pilot",
+      "link": "https://timesofindia.indiatimes.com/india/interview-aap-had-4-5-years-to-end-drug-menace-gangsterism-in-punjab-sachin-pilot/articleshow/135177589.cms",
+      "summary": "\"BJP has no strong footing in Punjab and has survived on the back of SAD support. But SAD has also split and is facing internal issues. It is not the force like they were under Badal Senior. It will be a bipolar contest over who can lead Punjab better. There will be other players like Amritpal Singh’s party, but people of Punjab don’t give a fractured mandate,\" Sachin Pilot said.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:42:06+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "caf20f387e29c7bf9db942ad1986eddb",
+      "title": "Canadian University allows convicted murderer on day parole to attend law course, major outrage among students",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canadian-university-allows-convicted-murderer-on-day-parole-to-attend-law-course-major-outrage-among-students/articleshow/135177664.cms",
+      "summary": "",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:41:28+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bd5d434418fd074ab5d2a45891a5e1bd",
+      "title": "No EC nod needed for voter to sue candidate over false information: Supreme Court",
+      "link": "https://timesofindia.indiatimes.com/india/no-ec-nod-needed-for-voter-to-sue-candidate-over-false-information-supreme-court/articleshow/135177591.cms",
+      "summary": "A bench of Justices Dipankar Datta and Sheel Nagu quashed the Karnataka HC order which had held that “right given to the voter is only to file an election petition, and not to register a private complaint of crime which is the duty of the Election Commission, if it wants to do so”.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-25T01:33:20+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
